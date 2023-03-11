@@ -1,4 +1,5 @@
 # weather-or-not
 
-This is a weather app that will give you information about weather in different cities.
-<img width="1171" alt="Screen Shot 2023-03-08 at 5 51 22 PM" src="https://user-images.githubusercontent.com/95941568/223879244-343e1aa5-35e2-4f73-99b3-c692aeb65b21.png">
+This weather app will give you information about the weather in different cities.
+<img width="1183" alt="Screen Shot 2023-03-11 at 8 50 15 AM" src="https://user-images.githubusercontent.com/95941568/224491216-44bb6554-0e47-4e2c-9218-742828f0db93.png">
+
